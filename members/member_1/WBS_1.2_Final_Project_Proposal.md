@@ -3,6 +3,7 @@
 ## An Agentic AI Platform for Transforming Training Materials into Personalized Learning Experiences
 
 ### Member Information
+
 **Member Name:** Member 1
 **Role:** Project Manager and Backend/Deployment Engineer
 **Assigned Work Package (WBS):** WBS 3.1 (Repository setup & foundation) + GitHub Workflow Strategy
