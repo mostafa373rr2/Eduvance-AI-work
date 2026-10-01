@@ -1,6 +1,17 @@
 # WBS 1.4 — Step 4  
 ## Final Experiment Execution Protocol, Logging, and Reporting
 
+
+### Member Information
+
+**Member Name:** Member 2 
+**Role:** Content and RAG Engineer
+**Assigned Work Package (WBS):** Define evaluation questions, datasets, metrics
+**Task Name:** Final Evaluation Execution Protocol
+**Week:** Week 2–3
+
+
+
 ## 1. Purpose
 
 This protocol defines how the Eduvance evaluation will be executed once the prototype reaches the required evaluation stage.
