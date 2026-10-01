@@ -10,6 +10,8 @@
 **Task Name:** Repository Setup and Project Foundation
 **Week:** Week 1
 
+---
+
 ### Graduation Project Proposal
 
 **Project:** Eduvance AI  
