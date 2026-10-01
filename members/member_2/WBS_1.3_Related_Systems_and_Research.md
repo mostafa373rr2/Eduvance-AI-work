@@ -2,6 +2,17 @@
 
 ## WBS 1.3 — Related Systems and Research Review
 
+
+### Member Information
+
+**Member Name:** Member 2 
+**Role:** Content and RAG Engineer
+**Assigned Work Package (WBS):** WBS 1.3 Review related systems/research + comparison table  
+**Task Name:** Related Systems and Research Review
+**Week:** Week 2–3
+
+---
+
 ### Status
 Final draft for acceptance
 
