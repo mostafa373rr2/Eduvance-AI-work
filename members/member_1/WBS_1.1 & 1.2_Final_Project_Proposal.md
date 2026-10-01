@@ -6,8 +6,8 @@
 
 **Member Name:** Member 1 
 **Role:** Project Manager and Backend/Deployment Engineer
-**Assigned Work Package (WBS):** WBS 3.1 (Repository setup & foundation) + GitHub Workflow Strategy
-**Task Name:** Repository Setup and Project Foundation
+**Assigned Work Package (WBS):** WBS 1.1 , 1.2 (Confirm Requirements, Deadlines, and Marking Criteria) + Write Problem Statement, Objectives, Scope, and Proposal
+**Task Name:** Final Project Proposal
 **Week:** Week 1
 
 
