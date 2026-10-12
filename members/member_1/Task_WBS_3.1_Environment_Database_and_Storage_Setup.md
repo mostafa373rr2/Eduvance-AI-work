@@ -194,3 +194,4 @@ flowchart TD
    * Can integrate with `/api/v1/auth` (login/register), `/api/v1/courses` (create/list), and `/api/v1/courses/{id}/documents`.
 3. **For Member 1 (Next Milestone — WBS 4.1: Workflow Execution Engine):**
    * Ready to implement the asynchronous state machine orchestrating agent handoffs and retry tracking via the `workflow_tasks` table.
+
