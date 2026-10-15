@@ -18,6 +18,8 @@ from Backend.core.config import Settings, settings
 from Backend.auth import auth_dependencies, auth_router
 from Backend.courses import course_router
 from Backend.documents import document_router
+from Backend.events import event_router
+from Backend.progress import progress_router
 from Backend.services.storage_service import StorageService
 from Database.models.all_models import Base
 from Database.session import engine
@@ -48,6 +50,8 @@ def create_app(database_engine: Engine | None = None, app_settings: Settings | N
     application.include_router(document_router(dependencies, storage if storage is not None
                                else StorageService(app_config.STORAGE_DIR)),
                                prefix=app_config.API_V1_STR)
+    application.include_router(event_router(dependencies), prefix=app_config.API_V1_STR)
+    application.include_router(progress_router(dependencies), prefix=app_config.API_V1_STR)
 
     @application.exception_handler(RequestValidationError)
     async def validation_error(request, error):
